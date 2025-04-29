@@ -14,7 +14,7 @@ This app lets you chat with your Excel/CSV data to generate insights, visualizat
 )
 
 ### 📝 Beautified Analytical Report
-![Beautified Output](<img width="945" alt="image" src="https://github.com/user-attachments/assets/ac3c0d58-2b13-4357-b1aa-abcabbf1efe9" />
+![Beautified Output](<img width="945" alt="image" src="https://github.com/user-attachments/assets/653f8177-20a3-4912-91ba-95980091245f" />
 )
 
 ---
